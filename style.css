@@ -1,0 +1,30 @@
+body
+{
+  background-color: #dcd6f7
+}
+
+h1
+{
+  color: #fc8210;
+  text-align: left;
+  text-shadow: 2px 2px grey;
+}
+p.italic{
+  font-style: italic;
+}
+h3{
+  color: #5c2a9d;
+  text-align: left;
+  text-shadow: 2px 2px 5px red;
+}
+hr{
+  border-style: none;
+  height: 0px;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+img{
+  height: 20;
+}
